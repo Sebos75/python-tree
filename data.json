@@ -1,0 +1,27 @@
+[
+    {
+        "id": "662267d3ab71a8ff1db4f854",
+        "name": "root1",
+        "parentId": null
+    },
+    {
+        "id": "462267d3ab71a8ff1db4f854",
+        "name": "Child 1",
+        "parentId": "662267d3ab71a8ff1db4f854"
+    },
+    {
+        "id": "662267d3ab71a83f1db4f854",
+        "name": "Child 2",
+        "parentId": "662267d3ab71a8ff1db4f854"
+    },
+    {
+        "id": "462267d3ab71a8ff1db4f654",
+        "name": "Child 3",
+        "parentId": "462267d3ab71a8ff1db4f854"
+    },
+    {
+        "id": "662267d3ab71a8ff1db47854",
+        "name": "root2",
+        "parentId": null
+    }
+]
